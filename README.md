@@ -1,4 +1,4 @@
-# LP_Dust-in-the-barrel-Maqueta
+#Dust in the barrel (Maqueta)
 Project by Lonely Pug
 Code by Pablo Avalos
 
