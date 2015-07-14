@@ -7,7 +7,7 @@ Juego de exploración isométrica ambientado en el viejo oeste donde habitan ani
 
 Elaborado con pygame; imágenes hechas con Paint.net
 
-Cosas por hacer
+###Cosas por hacer
 *Cajas de colisiones
 *Disparos
 *Enemigos

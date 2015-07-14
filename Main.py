@@ -10,7 +10,7 @@ from pygame.locals import *
 
 #Paleta de colores
 class color:
-	Pantone_C = (0, 146, 188)
+	Tiffany = (0, 146, 188)
 
 pygame.init()
 screen = pygame.display.set_mode((800,600))
@@ -23,7 +23,7 @@ def Main():
 	Vel = 20 #Velocidad de Movimiento
 
 	while True: #Loop para iniciar el juego
-		screen.fill(color.Pantone_C) #Fondo
+		screen.fill(color.Tiffany) #Fondo
 		screen.blit(Walbert, (PosX, PosY)) #Posicion del personaje
 
 		for event in pygame.event.get():
